@@ -1,6 +1,6 @@
 # Budgety
 
-Calculated your monthly/weekly/daily incomes and expenses.
+Calculate your monthly/weekly/daily incomes and expenses.
 
 ## Demo
 
